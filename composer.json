@@ -1,0 +1,21 @@
+{
+    "name": "fakesudo/plutoframework",
+    "type": "project",
+    "description": "Pluto is a Telegram & Web ecosystem for create clean code telegram bot",
+    "keywords": ["framework", "pluto"],
+    "require": {
+        "fakesudo/pluto": "^0.0.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AmirHossein Alibabaei",
+            "email": "FakeSudoer@gmail.com"
+        }
+    ]
+}
