@@ -4,7 +4,7 @@
     "description": "Pluto is a Telegram & Web ecosystem for create clean code telegram bot",
     "keywords": ["framework", "pluto"],
     "require": {
-        "fakesudo/pluto": "^0.0.1"
+        "fakesudo/pluto": "^0.0.2"
     },
     "license": "MIT",
     "autoload": {
